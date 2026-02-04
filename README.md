@@ -110,9 +110,10 @@ ai_ops_assistant/
 
 ## Requirements Met
 
-- ✅ Multi-agent design (Planner, Executor, Verifier)
-- ✅ LLM with structured outputs (Gemini API)
-- ✅ 2+ real third-party APIs (GitHub + OpenWeatherMap)
-- ✅ End-to-end result
-- ✅ No hardcoded responses
-- ✅ Single command run: `uvicorn main:app`
+-  Multi-agent design (Planner, Executor, Verifier)
+-  LLM with structured outputs (Gemini API)
+-  2+ real third-party APIs (GitHub + OpenWeatherMap)
+-  End-to-end result
+-  No hardcoded responses
+- Single command run: `uvicorn main:app`
+
